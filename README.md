@@ -1,26 +1,29 @@
-# Hi there! 👋 I'm Shudhanshu 🚀
+# Hi there! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)  I'm Shudhanshu Chaubey 🌟  
 
-A Node.js Backend Developer focused on building scalable APIs, distributed systems, and reliable backend infrastructure.
+**A passionate Backend Developer dedicated to crafting elegant, efficient, and impactful web applications.**
 
-<table border="0">
-  <tr>
-    <td width="60%">
-      <ul>
-        <li>💻 Backend stack: Node.js, Express.js, MongoDB, Redis, REST APIs.</li>
-        <li>⚙️ Designed asynchronous and queue-driven architectures using BullMQ and background workers.</li>
-        <li>📡 Built an Enterprise Webhook Delivery System with retries, HMAC security, and job monitoring.</li>
-        <li>🎬 Developed VidTube — a production-style video hosting backend with authentication and media handling.</li>
-        <li>🚀 Passionate about scalable backend engineering and distributed systems.</li>
-        <li>🤝 Open to Node.js backend opportunities and collaborations.</li>
-        <li>📫 Reach me at: your.email@example.com</li>
-      </ul>
-    </td>
-    <td width="40%" align="center">
-      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdMo8SHBElWGr5Fk32yICBpqDaKYIKHuiMzA&s" alt="coding illustration" width="100%" />
-    </td>
-  </tr>
-</table>
-
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <ul>
+          <li>💻 Always exploring new technologies and expanding my skill set.</li>
+          <li>📡 Built an Enterprise Webhook Delivery System with retries, HMAC security, and job monitoring.</li>
+          <li>🎬 Developed VidTube — a production-style video hosting backend with authentication and media handling.</li>
+          <li>🤝 Open to collaborations and knowledge-sharing opportunities.</li>         
+          <li>🚀 Passionate about scalable backend engineering and distributed systems.</li>
+          <li>🤝 Open to Node.js backend opportunities and collaborations.</li>
+          <li>📬 Reach me at <a href="mailto:shudhanshuchaturvedi46@gmail.com">shudhanshuchaturvedi46@gmail.com</a>.</li>
+        </ul>
+      </td>
+      <td>
+        <div align="center">
+          <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
 
 
 ### 💻 Tech Stack
@@ -51,3 +54,20 @@ A Node.js Backend Developer focused on building scalable APIs, distributed syste
 #### 🧑‍💻 Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+
+### 🌐 **Socials**
+Let's connect!  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shudhanshu-chaubey-035a57227/)  
+[![GitHub](https://img.shields.io/badge/GitHub-12100E?logo=github&logoColor=white)](https://github.com/96SHUDH)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=LeetCode&logoColor=black)](https://leetcode.com/u/SH9628826891/)  
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shudhanshuchaturvedi46@gmail.com)  
+
+
+---
+### 🏆 My GitHub Stats  
+
+![](https://github-readme-stats.vercel.app/api?username=96SHUDH&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=96SHUDH&theme=blue-green&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=96SHUDH&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
