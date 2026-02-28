@@ -16,7 +16,7 @@ A Node.js Backend Developer focused on building scalable APIs, distributed syste
       </ul>
     </td>
     <td width="40%" align="center">
-      <img src="[https://media.giphy.com/media/qgQUggCGvnkNC/giphy.gif](https://camo.githubusercontent.com/660e8839e806a7a23f61b155be2e078a1cbd67f33c65b38994f8318cbd9e50f6/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f7167515567674143335066763638377150432f67697068792e676966)" alt="coding illustration" width="100%" />
+      <img src="[[https://media.giphy.com/media/qgQUggCGvnkNC/giphy.gif](https://camo.githubusercontent.com/660e8839e806a7a23f61b155be2e078a1cbd67f33c65b38994f8318cbd9e50f6/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f7167515567674143335066763638377150432f67697068792e676966)](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9fff2-d4LIQoCCE5jiZ5T9Sn1XvtcnIHpjQ&s)" alt="coding illustration" width="100%" />
     </td>
   </tr>
 </table>
